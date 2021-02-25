@@ -10,3 +10,20 @@
 2021-02-25 14:49:34.732 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
 2021-02-25 14:49:34.749 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
 2021-02-25 14:49:34.758 INFO  com.bobby.wiki.WikiApplication                    :61   [32m                  [0;39m Started WikiApplication in 1.287 seconds (JVM running for 1.76)
+2021-02-25 15:29:08.328 INFO  com.bobby.wiki.WikiApplication                    :55   [32m                  [0;39m Starting WikiApplication using Java 15.0.1 on LAPTOP-4KLRVPMO with PID 4116 (C:\Users\bobby\IdeaProjects\wiki\target\classes started by bobby in C:\Users\bobby\IdeaProjects\wiki)
+2021-02-25 15:29:08.334 INFO  com.bobby.wiki.WikiApplication                    :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2021-02-25 15:29:09.400 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8880 (http)
+2021-02-25 15:29:09.413 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8880"]
+2021-02-25 15:29:09.414 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2021-02-25 15:29:09.415 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-02-25 15:29:09.527 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2021-02-25 15:29:09.528 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1127 ms
+2021-02-25 15:29:09.761 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-25 15:29:09.980 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8880"]
+2021-02-25 15:29:10.020 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8880 (http) with context path ''
+2021-02-25 15:29:10.041 INFO  com.bobby.wiki.WikiApplication                    :61   [32m                  [0;39m Started WikiApplication in 2.315 seconds (JVM running for 3.047)
+2021-02-25 15:29:10.046 INFO  com.bobby.wiki.WikiApplication                    :17   [32m                  [0;39m 启动成功!!
+2021-02-25 15:29:10.047 INFO  com.bobby.wiki.WikiApplication                    :18   [32m                  [0;39m 地址：	 http://127.0.0.1:8880
+2021-02-25 15:29:14.230 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-02-25 15:29:14.231 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2021-02-25 15:29:14.233 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
