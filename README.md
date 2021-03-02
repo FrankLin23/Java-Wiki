@@ -2,3 +2,4 @@
 
 本项目技术栈
 - SpringBoot
+- Vue3
